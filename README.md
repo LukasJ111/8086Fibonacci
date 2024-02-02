@@ -10,7 +10,7 @@ numSize dictates the maximum buffer size that the number can represent.
 
 It is suggested to use the latest version of [DOSBox](https://www.dosbox.com/) to run your program.
 
-Use the [TASM](/TASM.zip) to compile and run your program.
+Use the [TASM](/TASM) to compile and run your program.
 
 ```sh
 tasm Fibonacci.asm
